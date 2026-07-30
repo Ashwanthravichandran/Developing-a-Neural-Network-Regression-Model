@@ -169,12 +169,12 @@ print(f"Predicted Output: {prediction_actual[0][0]:.2f}")
 
 
 
-![alt text](<Screenshot 2026-07-30 112447.png>)
 
 
 ### Training Loss Vs Iteration Plot
 
 
+![alt text](<Screenshot 2026-07-30 112447.png>)
 
 ![alt text](<Screenshot 2026-07-30 112435.png>)
 
